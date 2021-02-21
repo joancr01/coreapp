@@ -1,0 +1,2 @@
+# coreapp
+azure curso
